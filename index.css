@@ -13,5 +13,9 @@ html{
         color: darkblue;
         
     }
-
+    .summary
+    {
+        font-family: monospace;
+    }
+          
            
